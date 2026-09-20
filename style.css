@@ -1,0 +1,43 @@
+body {
+    background-color: cornsilk;
+    padding: 0;
+}
+
+h1 {
+	font-family: serif;
+	font-size: 54px;
+    text-align: center;
+    color: #CB4335;
+}
+
+h2 {
+	font-family: serif;
+	color: #a73225;
+	font-size: 30px;
+	margin: 0;
+}
+
+h3 {
+	font-family: serif;
+	color: #a73225;
+	font-size: 18px;
+	margin: 0;
+}
+
+p {
+	font-family: serif;
+	color: #7d2f29;
+}
+
+section {
+	background-color: #fff1c6fe;
+	width: 90%;
+	padding: 10px;
+	margin: 28px auto;
+	box-sizing: border-box;
+}
+
+img {
+	max-width: 60%;
+	margin: 10px auto;
+}
